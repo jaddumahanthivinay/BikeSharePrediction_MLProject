@@ -1,0 +1,25 @@
+{	"SampleFileName": "bikeshare_prediction_data.csv",
+	"LengthOfDateStampInFile": 8,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" : 18,
+	"ColName": {
+		"Unnamed: 0" : "int64",
+		"instant": "int64",
+		"dteday": "object",
+		"season": "int64",
+		"yr": "int64",
+		"mnth": "int64",
+		"hr": "int64",
+		"holiday": "int64",
+		"weekday": "int64",
+		"workingday": "int64",
+		"weathersit": "int64",
+		"temp": "float64",
+		"atemp": "float64",
+		"hum": "float64",
+		"windspeed": "float64",
+		"casual": "float64",
+		"registered": "float64",
+		"cnt": "float64"
+	}
+}
